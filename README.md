@@ -1,0 +1,2 @@
+# CO_MIPS54
+实现MIPS架构指令集下54条指令的单周期CPU，经过Vivado和Modelsim联合仿真通过并在Nexys4开发板上下板通过。
